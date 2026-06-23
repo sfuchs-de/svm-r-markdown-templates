@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Historical repository.** This fork is retained for reference and is no longer maintained. For the maintained project, see [svmiller/svm-r-markdown-templates](https://github.com/svmiller/svm-r-markdown-templates). For Simon Fuchs's current research, visit [sfuchs-de.github.io](https://sfuchs-de.github.io/).
+
 Steve's R Markdown Templates
 ============================
 
